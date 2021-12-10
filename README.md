@@ -19,4 +19,8 @@ RAM: 8GB
 Processor: Intel i5
 Graphics: 4GB
 
-These are the requirements but you do not need to be bothered if you do not have to be bothered if your computer does not have these specifications, you can also run on a low configuration system but it just takes a little more time than usual. Explore and Enjoy.
+These are the requirements but you do not need to be bothered if you do not have to be bothered if your computer does not have these specifications, you can also run on a low configuration system but it just takes a little more time than usual.
+
+Please note that this code is only the backend to the phishing website detection, in order to use this code professionally, there has to be a decent frontend GUI.
+
+Explore and Enjoy.
